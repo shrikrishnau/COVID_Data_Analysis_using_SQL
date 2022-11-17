@@ -12,7 +12,7 @@ The World Covid has to be sourced from web, cleaned and analysed using SQL. Prod
 
 
 ## About the data set
-* The dataset was sourced from Kaggle.
+* The dataset was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths)
 * This dataset contains data of top 1000 movies as per rating from the yeaar 1920 till the year 2020.
 
 
