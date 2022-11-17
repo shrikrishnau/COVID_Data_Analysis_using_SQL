@@ -5,7 +5,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 */
 
 
-select * 
+Select * 
 from PortfolioProject..CovidDeaths
 Where continent is not null 
 order by 3,4
