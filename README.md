@@ -34,11 +34,15 @@ The aim of this project is to find the projected growth of COVID cases.
 
 ## Some Important insights from the Analysis
 
-* Shawshank Redemption released in 1994 has the highest rating of 9.3 in the list.
-* The 39 Steps released in 1935 has the lowest rating of 7.6 in the list.
-* The highest average voting was for the movies in the list released in the year 1994.
-* The Year 2018 saw the highest average revenue.
-* As per the movies in the list Director Frank Darabont has the highest average rating of 8.95.
+* As of 18th October 2022 there were 4,46,34,376 people totally affected by COVID in India.
+* About 5,28,923 people totally died due to COVID in India bringing the death percentage to 1.18%.
+* About 3.7% of the Indian population got infected by COVID.
+* Cyprus topped the list of country with the highest infection rate compared to population in the world.
+* United States of America has the highest death count per population amounting to 10,65,841 deaths.
+* This indicate the US heathcare system wasn't adequate enough to handle the COVID crisis and added to this many people refused to follow the COVID restriction protocol which further amplified the spread of the disease.
+* In terms of continent, North America has the highest death count per population and Oceania the lowest.
+* The total COVID cases around the world totalled to 62,40,72,979 and the deaths totalled to 65,32,258 and the death percentage is 1.04%.
+* The COVID spread has slowed drastically with very few new cases popping up owing to accelerated vaccination in various countries.
 
 
 
