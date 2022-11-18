@@ -19,6 +19,9 @@ The World Covid has to be sourced from web, cleaned and analysed using SQL. Prod
 ## Overall Analysis View
 The aim of this project is to find the projected growth of COVID cases.
 
+## Link to Code
+[SQL Code](https://github.com/shrikrishnau/COVID_Data_Analysis_using_SQL/blob/main/Covid%20Data%20Analysis.sql)
+
 ## SQL Skills Used
 * Joins
 * CTE's
