@@ -32,7 +32,7 @@ The aim of this project is to find the projected growth of COVID cases.
 * Converting Data Types
 
 ## Things learnt from this Project 
-* Learnt to CTE's and Temp Tables.
+* Learnt to use CTE's and Temp Tables.
 * Came across a use case for converting data type and implemented it. 
 
 ## Some Important insights from the Analysis
